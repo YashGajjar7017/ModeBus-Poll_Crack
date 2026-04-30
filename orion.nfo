@@ -1,0 +1,64 @@
+
+ ³°ÛÛÛÛÛßß²ÛÛÛÛÛÛ  ßßßßßßßß²ÛÛÛÛÛÛ  ßßßßßßß ³°ÛÛÛÛÛßß²ÛÛÛÛÛÛ  ßßßßßßßß²ÛÛÛÛÛÛ
+ ³±ÛÛÛÛÛ ³²ÛÛÛÛÛÛ ³°ÛÛÛÛÛ ³²ÛÛÛÛÛÛ ³°ÛÛÛÛÛÛ ³±ÛÛÛÛÛ ³²ÛÛÛÛÛÛ ³°ÛÛÛÛÛ ³²ÛÛÛÛÛÛ
+ ³²ÛÛÛÛÛ ³²ÛÛÛÛÛÛ ³±ÛÛÛÛÛ ³²ÛÛÛÛÛÛ ³±ÛÛÛÛÛÛ ³²ÛÛÛÛÛ ³²ÛÛÛÛÛÛ ³±ÛÛÛÛÛ ³²ÛÛÛÛÛÛ
+ ³²ÛÛÛÛÛÜÜ²ÛÛÛÛÛÛÜ³²ÛÛÛÛÛÜ         ³²ÛÛÛÛÛÛÜ³²ÛÛÛÛÛÜÜ²ÛÛÛÛÛÛÜ³²ÛÛÛÛÛ ³²ÛÛÛÛÛÛ
+ ................................................................... ³²ÛÛÛÛÛÛÜ
+ w h e r e . t h e . s t a r s . c o m e . o u t . a t . n i g h t !   <a!b>
+
+
+      ÖÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ·
+      º                      ORiON PROUDLY PRESENTS                     º
+ ºÄÄÄÄĞÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄĞÄÄÄÄº
+                               Modbus Poll v3.60
+                                  (c) WitteCom
+ ºÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍº
+     SUPPLIER ...: Team ORiON          ³  RELEASED ...: 08/02/2004
+     CRACKER ....: Team ORiON          ³  PROTECTION .: Custom
+     PACKAGER ...: Team ORiON          ³  DISKS ......: XX/01
+ ºÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍº
+                        URL: http://www.modbustools.com/
+ ÚÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄ¿
+ ³                                [ Info ]                                   ³
+ ÀÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÙ
+
+   Modbus Poll is designed primarily to help developers of Modbus slave 
+   devices or others that want to test and simulate the Modbus protocol. 
+   With the multiple document interface you can monitor several Modbus 
+   slaves and/or data areas at the same time. For each window you simply 
+   specify the Modbus slave ID, function, address, size and poll rate. 
+   You can read and write registers and coils from any window. If you 
+   want to change a single register, simply double click the value. Or 
+   you can change multiple registers/coils.  Multiple data formats such 
+   as float, double and long with word order swapping are available.
+   
+   Exception errors are shown on the status line.
+   
+   If you are a slave developer you can compose and send your own test 
+   strings in the "test center" and check the result from the slave in 
+   hex numbers.
+   
+   OLE Automation for interfacing with Visual Basic, Excel etc. To 
+   interpret and show the Modbus data according to your specific 
+   requirements. E.g. edit data in Excel and then transmit the data to 
+   your slave device! Try the Excel example.xls included with the 
+   program.
+
+ ÚÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄ¿
+ ³                            [ Install Info ]                               ³
+ ÀÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÙ
+
+    Unzip, unrar and install. Use the key generator included in this
+    package to register the program.
+    
+    Enjoy!
+
+ ÚÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄ¿
+ ³                               [ Greets ]                                  ³
+ ÀÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÙ
+
+        ACME - AOD - BLiZZARD - CRO - ECL - EPS - TSZ - TNO - TMG - UCF
+
+  ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+    We are a non-profit organization and do not condone the sale of pirated 
+    software. If you like the software, please support the author and buy it!
